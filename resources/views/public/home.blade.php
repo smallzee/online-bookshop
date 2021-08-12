@@ -7,26 +7,25 @@
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-                <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+                {{--<li data-target="#carouselExampleCaptions" data-slide-to="2"></li>--}}
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <div class="slider-img slider-bg-1"></div>
                     <div class="carousel-caption">
                         <h2>First slide level</h2>
-                        <p class="d-none d-md-block">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente, laborum earum.
-                            Officiis molestiae ratione nobis, eveniet quidem veniam exercitationem laudantium.</p>
+                        <p class="d-none d-md-block">Thousands Of FREE Books To Read Whenever & Wherever You Like!.</p>
                     </div>
                 </div>
-                <div class="carousel-item">
-                    <div class="slider-img slider-bg-2"></div>
-                    <div class="carousel-caption">
-                        <h2>Second slide label</h2>
-                        <p class="d-none d-md-block">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente, laborum earum.
-                            Officiis
-                            molestiae ratione nobis, eveniet quidem veniam exercitationem laudantium.</p>
-                    </div>
-                </div>
+                {{--<div class="carousel-item">--}}
+                    {{--<div class="slider-img slider-bg-2"></div>--}}
+                    {{--<div class="carousel-caption">--}}
+                        {{--<h2>Second slide label</h2>--}}
+                        {{--<p class="d-none d-md-block">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente, laborum earum.--}}
+                            {{--Officiis--}}
+                            {{--molestiae ratione nobis, eveniet quidem veniam exercitationem laudantium.</p>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
                 <div class="carousel-item">
                     <div class="slider-img slider-bg-3"></div>
                     <div class="carousel-caption">

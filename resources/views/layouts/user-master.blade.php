@@ -111,22 +111,9 @@
             <a href="#nav-top" class="text-muted" title="Go to top"><i class="fas fa-angle-double-up"></i></a>
         </div>
         <div class="footer-text">
-            Copyright &copy; tahmid-ni7 - <span id="year"></span>
+            Copyright &copy; Design and implementation of online-bookstore management system</span>
         </div>
-        <div class="social-icon mt-2">
-                <span class="mr-2">
-                    <a href="https://www.facebook.com/iamTahmid.ni7" class="text-primary"><i
-                            class="fab fa-facebook fa-2x"></i></a>
-                </span>
-            <span class="mr-2">
-                    <a href="https://github.com/tahmid-ni7" class="text-secondary"><i
-                            class="fab fa-github fa-2x"></i></a>
-                </span>
-            <span class="mr-2">
-                    <a href="https://stackoverflow.com/users/11026749/tahmid-ni7" class="text-warning"><i
-                            class="fab fa-stack-overflow fa-2x"></i></a>
-                </span>
-        </div>
+
     </div>
 </footer>
 

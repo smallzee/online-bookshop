@@ -21,8 +21,8 @@
                         <tr>
                             <td>{{$item->name}}</td>
                             <td>{{$item->qty}}</td>
-                            <td>{{$item->price}} TK</td>
-                            <td>{{$item->subtotal()}} TK</td>
+                            <td>&#8358; {{$item->price}}</td>
+                            <td>&#8358; {{$item->subtotal()}}</td>
                         </tr>
                         @endforeach
                         </tbody>
@@ -72,9 +72,9 @@
                         </div>
                         <div class="card-body">
                             <p>Total products = {{Cart::content()->count()}}</p>
-                            <p>Product Cost = {{Cart::total()}} TK</p>
-                            <p>Shipping cost = 0.00 TK</p>
-                            <p><strong>Total cost = {{Cart::total()}} TK</strong></p>
+                            <p>Product Cost = &#8358; {{Cart::total()}} </p>
+                            <p>Shipping cost = &#8358;0.00 </p>
+                            <p><strong>Total cost = &#8358; {{Cart::total()}} </strong></p>
                         </div>
                     </div>
                 </div>
